@@ -1,0 +1,422 @@
+@charset "UTF-8";
+
+@media only screen and (min-width: 360px) and (orientation: portrait) {
+html,body {
+height:100%
+}
+
+.sizeFont {
+font-size:medium;
+text-align:end
+}
+
+.sizeFontStart {
+font-size:x-large;
+text-align:start
+}
+.sizeFontCenter {
+    font-size:x-large;
+    text-align:center;
+    }
+
+.sizeFontsubTitle {
+font-size:small;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:small;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:xx-large;
+text-align:center
+}
+
+.sizeFontParagraf {
+font-size:12px;
+text-align:start
+}
+.sizeFontParagrafcenter {
+    font-size:12px;
+    text-align:center
+    }
+
+.tableFontSize {
+font-size:25%
+}
+
+.imgSizeNormal {
+width:15%
+}
+
+.imgSizeMedium {
+width:25%
+}
+
+.imgSizeBig {
+width:45%
+}
+
+#face {
+width:17%
+}
+
+#bottle {
+width:90%;
+float:right
+}
+}
+
+@media only screen and (max-width: 480px ) and (orientation: landscape) {
+html,body {
+height:100%
+}
+
+.sizeFont {
+font-size:small;
+text-align:center
+}
+
+.sizeFontStart {
+font-size:x-large;
+text-align:start
+}
+.sizeFontCenter {
+    font-size:x-large;
+    text-align:center;
+    }
+
+.sizeFontsubTitle {
+font-size:small;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:small;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:small;
+text-align:center
+}
+
+.sizeFontParagraf {
+font-size:13px;
+text-align:start
+}
+.sizeFontParagrafcenter {
+    font-size:13px;
+    text-align:center
+    }
+
+.imgSizeNormal {
+width:15%
+}
+
+.imgSizeMedium {
+width:25%
+}
+
+.imgSizeBig {
+width:45%
+}
+
+#face {
+width:17%
+}
+
+#bottle {
+width:55%;
+float:right
+}
+}
+
+@media only screen and (max-width: 480px ) and (orientation: portrait) {
+html,body {
+height:100%
+}
+
+.sizeFont {
+font-size:medium;
+text-align:end
+}
+
+.sizeFontStart {
+font-size:x-large;
+text-align:start
+}
+.sizeFontCenter {
+    font-size:x-large;
+    text-align:center;
+    }
+
+.sizeFontsubTitle {
+font-size:small;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:small;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:xx-large;
+text-align:center
+}
+
+.sizeFontParagraf {
+font-size:14px;
+text-align:start
+}
+.sizeFontParagrafcenter {
+    font-size:14px;
+    text-align:center
+    }
+
+.tableFontSize {
+font-size:25%
+}
+
+.imgSizeNormal {
+width:15%
+}
+
+.imgSizeMedium {
+width:25%
+}
+
+.imgSizeBig {
+width:45%
+}
+
+#face {
+width:17%
+}
+
+#bottle {
+width:90%;
+float:right
+}
+}
+
+@media (min-width: 576px) and (orientation: landscape) {
+html,body {
+height:100%
+}
+
+.sizeFontStart {
+font-size:x-large;
+text-align:start;
+font-size:xx-large;
+text-align:start
+}
+.sizeFontCenter {
+    font-size:x-large;
+    text-align:center;
+    }
+
+.sizeFontsubTitle {
+font-size:x-large;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:medium;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:xx-large;
+text-align:center
+}
+
+.sizeFontParagraf {
+font-size:17px;
+text-align:start
+}
+.sizeFontParagrafcenter {
+    font-size:17px;
+    text-align:center
+    }
+
+.tableFontSize {
+font-size:50%
+}
+
+.imgSizeNormal {
+width:25%
+}
+
+.imgSizeMedium {
+width:35%
+}
+
+.imgSizeBig {
+width:55%
+}
+
+#face {
+width:17%
+}
+
+#bottle {
+width:90%;
+float:right
+}
+}
+
+@media (min-width: ≥768px) {
+html,body {
+height:100%;
+width:100%
+}
+
+.sizeFont {
+font-size:large;
+text-align:center
+}
+
+.sizeFontStart {
+font-size:large;
+text-align:start
+}
+.sizeFontCenter {
+    font-size:large;
+    text-align:center;
+    }
+
+.sizeFontsubTitle {
+font-size:large;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:large;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:medium;
+text-align:center
+}
+
+.sizeFontParagraf {
+font-size:18px;
+text-align:start
+}
+.sizeFontParagrafcenter {
+    font-size:18px;
+    text-align:center
+    }
+
+.imgSizeNormal {
+width:35%
+}
+
+.imgSizeMedium {
+width:45%
+}
+
+.imgSizeBig {
+width:65%
+}
+
+#face {
+width:10%
+}
+
+#bottle {
+width:40%;
+float:right
+}
+}
+
+@media (min-width: 992px) {
+html,body {
+height:100%;
+width:100%
+}
+
+.sizeFont {
+font-size:58px;
+text-align:end
+}
+
+.sizeFontStart {
+font-size:58px;
+text-align:start
+}
+
+.sizeFontEnd {
+font-size:58px;
+text-align:end
+}
+.sizeFontCenter {
+    font-size:58px;
+    text-align:center;
+    }
+
+.sizeFontSubTitleEnd {
+font-size:40px;
+text-align:end
+}
+
+.sizeFontSubTitleStart {
+font-size:40px;
+text-align:start
+}
+
+.sizeFontSubTitleCenter {
+font-size:40px;
+text-align:center
+}
+
+.tableFontSize {
+font-size:large
+}
+.textAreaStyle{
+    font-size: large;
+    border-style: inset;
+    resize:none;
+}
+
+.sizeFontCitazioni {
+font-size:30px;
+text-align:justify;
+vertical-align:middle
+}
+
+.sizeFontParagraf {
+font-size:20px;
+text-align:start
+}
+
+.imgSizeNormal {
+width:45%
+}
+
+.imgSizeMedium {
+width:55%
+}
+
+.imgSizeBig {
+width:75%
+}
+
+#face {
+width:10%
+}
+
+#bottle {
+width:55%;
+float:right
+}
+}
+
+.header {
+background-color:#DFCE8B
+}

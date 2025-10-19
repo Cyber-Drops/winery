@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@font-face {
+font-family:hollandLand;
+src:url(../../../media/font/HollandLand.otf)
+}
+
+@font-face {
+font-family:geizer;
+src:url(../../../media/font/Geizer.otf)
+}
+
+@font-face {
+font-family:montLight;
+src:url(../../../media/font/Mont_ExtraLight.otf)
+}
+
+.fontHeader {
+font-family:geizer
+}
+
+.fontFooter {
+font-family:geizer
+}
+
+.fontbodyTitle {
+font-family:geizer
+}
+
+.fontcitazioni {
+font-family:hollandLand
+}
+
+.fontparagrafi {
+font-family:montLight
+}
